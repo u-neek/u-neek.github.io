@@ -11,23 +11,17 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       #C3CBCF !default;
-$background-color: #363940 !default;
+$background-color: #202226 !default;
 $brand-color:      #FF6D10 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-$red-color:        #9C2106 !default;
-$red-color-light: lighten($red-color, 40%) !default;
-$red-color-dark:  darken($red-color, 25%) !default;
-
-$green-color:      #20642E !default;
-$green-color-light: lighten($green-color, 40%) !default;
-$green-color-dark:  darken($green-color, 25%) !default;
+$border-color:     #43474F !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1000px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;

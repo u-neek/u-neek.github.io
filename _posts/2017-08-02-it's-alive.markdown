@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "It's Alive!"
+date:   2017-08-02 18:00:01 -0500
+categories: First Post
+---
+
+It's up, finally! I have gotten `jeykll` up and running with some custom css. Being new to using Linux it was a learning experience, that's for sure.
+
+Of course this is a work in progress and I will be doing design changes here and there.
+
+Future plans include:
+* `Projects page`
+* `Sidebar`
+* `Tags`
+* `Comments`
+
+
+As I dive deeper into development and if all goes well, I will be updating this blog as I learn and complete projects.
+
+*So bookmark me now....* You don't want to miss what's to come. Starting with a break down on how I set up Jekyll and this blog.

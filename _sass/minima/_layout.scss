@@ -193,9 +193,13 @@ h1.page-heading {
   margin-left: 0;
   list-style: none;
   padding-top: 33px;
+  
+
+
 
   > li {
     margin-bottom: $spacing-unit;
+
   }
 
 }
@@ -207,6 +211,7 @@ h1.page-heading {
   padding-top: 10px;
   padding-bottom: 0px;
   margin-bottom: 25px;
+
   border: 1px solid $brand-color;
   border-radius: 3px;
 

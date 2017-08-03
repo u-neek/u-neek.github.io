@@ -192,15 +192,26 @@ h1.page-heading {
 .post-list {
   margin-left: 0;
   list-style: none;
-  background: #363940;
-  padding: 20px;
-  border: 1px solid $brand-color;
-  border-radius: 3px;
+  
+
+
 
 
   > li {
     margin-bottom: $spacing-unit;
   }
+
+ > .post-exc {
+   background: #363940;
+   padding-left: 8px;
+   padding-right: 8px;
+   padding-top: 10px;
+   padding-bottom: 0px;
+   margin-bottom: 25px;
+   border: 1px solid $brand-color;
+   border-radius: 3px;
+ }
+
 }
 
 .post-meta {
@@ -277,10 +288,10 @@ a.post-link {
     }
   }
   background: #363940;
-  padding-top: 25px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
   border: 1px solid $brand-color;
   border-radius: 3px;
 }
